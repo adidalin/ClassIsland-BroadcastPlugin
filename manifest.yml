@@ -1,0 +1,10 @@
+id: com.school.broadcast
+name: 校园广播接收器
+apiVersion: 2.0.0.0
+description: 接收来自PocketBase的广播消息，并在课间休息时显示全屏通知和语音播报。支持上课静默、拖堂隐藏、强制全屏等功能。
+entranceAssembly: "BroadcastPlugin.dll"
+url: https://github.com/your-username/ClassIsland-BroadcastPlugin
+author: School IT
+version: 1.0.0.0
+icon: icon.png
+readme: README.md
